@@ -1,1 +1,5 @@
 Hello, I am making changes to HELLO_WORLD.TXT in VSC
+Now I just made o
+eine leere zeile
+ne more change to test if it will appear in the terminal
+
